@@ -1,0 +1,31 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color: rgb(54, 126, 189);
+    width: 100%;
+    height: 100px;
+    padding-top: 50px;
+}
+
+a {
+    background-color: rgb(69, 95, 160);
+    background-image: linear-gradient(rgb(118, 118, 215), rgb(130, 190, 210), rgb(105, 240, 220));
+    height: 45px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 100px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration-line: none;
+    padding: 15px 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    margin-top: 50px;
+}
